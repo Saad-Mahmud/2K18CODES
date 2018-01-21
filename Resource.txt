@@ -1,0 +1,9 @@
+[
+  SOS Dynamic Programming [Tutorial]
+  http://codeforces.com/blog/entry/45223
+]
+
+[
+  Parallel Binary Search [tutorial]
+  http://codeforces.com/blog/entry/45578
+]
